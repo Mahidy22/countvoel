@@ -1,0 +1,38 @@
+.container{
+    background: paleturquoise;
+    max-width: 70%;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    border-radius: 7px;
+    margin-top: 35px;
+    padding: 10px;
+}
+
+input{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    font-style: oblique;
+    display: block;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    min-width: 40%;
+    border: none;
+    border-radius: 7px;
+    background: brown;
+    color : aqua;
+    padding: 5px;
+    font-size: 17px;
+}
+#checkBtn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#count{
+    color : palevioletred;
+    font-size: 30px;
+}
